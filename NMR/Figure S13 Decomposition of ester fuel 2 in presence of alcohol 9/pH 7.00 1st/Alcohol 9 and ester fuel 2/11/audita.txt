@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TopSpin 3.6.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= TH_lab
+$$ D:/NMRdatas/TH_lab/lab423/user2/SA02-202-3  SachOL and 22 pH 7.00/11/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-09-28 14:26:20.260 +0200>,<TH_lab>,<DESKTOP-SS7M8T8>,<go4>,<TopSpin 3.6.2>,
+      <created by zg
+	started at 2023-09-28 14:22:12.082 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       BE E5 01 9D ED 37 07 7A 4D F2 16 EF C3 D4 20 C2
+       data hash MD5: 80126
+       F5 FF EE DF 0D A4 07 03 ED 7A BD 6D D8 EA 94 D2>)
+##END=
+
+$$ hash MD5
+$$ B9 80 88 21 CE 27 06 FC D7 04 D8 54 D0 0B F1 C4

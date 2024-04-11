@@ -1,0 +1,18 @@
+##TITLE= Parameter file, TopSpin 4.1.4
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2024-03-19 04:04:37.637 +0100  nmr@CZC8327R47
+$$ E:/NMRdata/Hermans/lab423/user2/SA compound 22 fullchar/6/pdata/1/curdat2
+$$ process C:\Bruker\TopSpin4.1.4\prog\au\bin\proc_2dplxf2m.exe
+##$DATPATH2= <E:/NMRdata/Hermans/lab423/user2>
+##$DATPATH3= <E:/NMRdata/Hermans/lab423/user2>
+##$EXPNO2= 6
+##$EXPNO3= 6
+##$NAME2= <SA compound 22 fullchar>
+##$NAME3= <SA compound 22 fullchar>
+##$PROCNO2= 98
+##$PROCNO3= 99
+##END=

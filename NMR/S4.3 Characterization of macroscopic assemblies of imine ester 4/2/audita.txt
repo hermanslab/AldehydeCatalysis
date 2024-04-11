@@ -1,0 +1,26 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ /root/.topspin-BladeEpu/local_acqu/SA02-224-1  precipitate after washing/2/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-12-08 17:25:22.780 +0000>,<CZC8327R47\nmrsu>,<CZC8327R47>,<go4>,<TopSpin 4.1.4>,
+      <acquisition in progress>)
+$$ E:/NMRdata/Hermans/lab423/user2/SA02-224-1  precipitate after washing/2/audita.txt
+(   2,<2023-12-08 17:47:02.128 +0000>,<CZC8327R47\nmrsu>,<CZC8327R47>,<go4>,<TopSpin 4.1.4>,
+      <created by zg on 'Avance NEO 500' (CZC8327R47) by user 'CZC8327R47\nmrsu'
+       on data set with UUID 'c485ae38-95ee-11ee-98cc-00139529db41'
+       started at 2023-12-08 17:25:22.796 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2023-12-08 17:47:02.126 +0000
+       configuration hash MD5:
+       FD 07 3D 66 3D 85 09 77 A5 4A F8 99 CD 98 13 DC
+       double data hash MD5: 240962
+       D6 51 45 50 6D 03 24 CE 1C 81 C3 57 96 0C 2B 1B>)
+(   3,<2023-12-08 18:47:00.572 +0100>,<nmrsu>,<CZC8327R47>,<xwish3>,<TopSpin 4.1.4>,
+      <ICON-NMR User ID: lab423@user2
+       double data hash MD5: 240962
+       D6 51 45 50 6D 03 24 CE 1C 81 C3 57 96 0C 2B 1B>)
+##END=
+
+$$ hash MD5
+$$ 77 02 A5 34 CB 42 74 52 2A DE 22 53 4D 85 3D 9A

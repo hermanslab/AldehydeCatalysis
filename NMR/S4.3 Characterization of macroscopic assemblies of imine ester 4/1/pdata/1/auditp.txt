@@ -1,0 +1,47 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ E:/NMRdata/Hermans/lab423/user2/SA02-224-1  precipitate after washing/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-12-08 17:19:39.536 +0000>,<CZC8327R47\nmrsu>,<CZC8327R47>,<go4>,<TopSpin 4.1.4>,
+      <acquisition in progress>)
+$$ E:/NMRdata/Hermans/lab423/user2/SA02-224-1  precipitate after washing/1/audita.txt
+(   2,<2023-12-08 17:24:27.118 +0000>,<CZC8327R47\nmrsu>,<CZC8327R47>,<go4>,<TopSpin 4.1.4>,
+      <created by zg on 'Avance NEO 500' (CZC8327R47) by user 'CZC8327R47\nmrsu'
+       on data set with UUID 'f7f1e940-95ed-11ee-aa36-00139529db41'
+       started at 2023-12-08 17:19:39.551 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2023-12-08 17:24:27.114 +0000
+       configuration hash MD5:
+       FD 07 3D 66 3D 85 09 77 A5 4A F8 99 CD 98 13 DC
+       double data hash MD5: 64K
+       A3 44 9D 82 DB 63 2A 7B DB 4E CD 27 8B 4F 4D 6A>)
+(   3,<2023-12-08 18:24:25.636 +0100>,<nmrsu>,<CZC8327R47>,<xwish3>,<TopSpin 4.1.4>,
+      <ICON-NMR User ID: lab423@user2
+       double data hash MD5: 64K
+       A3 44 9D 82 DB 63 2A 7B DB 4E CD 27 8B 4F 4D 6A>)
+(   4,<2023-12-08 18:24:27.656 +0100>,<nmrsu/lab423@user2>,<CZC8327R47>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       32 17 B8 FF EB 36 BD CE AE EB D9 D8 92 44 54 A4>)
+(   5,<2023-12-08 18:24:28.636 +0100>,<nmrsu/lab423@user2>,<CZC8327R47>,<proc1d>,<TopSpin 4.1.4>,
+      <apk0 
+       data hash MD5: 64K
+       A7 06 52 FD B4 10 56 EE BE 2C 6B 09 A8 1E 84 22>)
+(   6,<2023-12-08 18:24:28.723 +0100>,<nmrsu/lab423@user2>,<CZC8327R47>,<proc1d>,<TopSpin 4.1.4>,
+      <abs ABSG = 5 
+       data hash MD5: 64K
+       2F B4 A6 56 0B 7B 39 1F F7 D8 F9 07 6F DF 81 62>)
+(   7,<2023-12-08 18:24:28.768 +0100>,<nmrsu/lab423@user2>,<CZC8327R47>,<peak>,<TopSpin 4.1.4>,
+      <1D Peak picking
+       data hash MD5: 64K
+       2F B4 A6 56 0B 7B 39 1F F7 D8 F9 07 6F DF 81 62>)
+(   8,<2023-12-08 18:24:29.332 +0100>,<nmrsu/lab423@user2>,<CZC8327R47>,<xwish3>,<TopSpin 4.1.4>,
+      <ICON-NMR User ID: lab423@user2
+       data hash MD5: 64K
+       2F B4 A6 56 0B 7B 39 1F F7 D8 F9 07 6F DF 81 62>)
+##END=
+
+$$ hash MD5
+$$ CD C7 9B 99 A9 DF 4F 5A 9F EB A1 52 03 95 F4 91

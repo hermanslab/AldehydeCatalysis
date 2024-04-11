@@ -1,0 +1,60 @@
+
+New TopShim run:
+
+version = topshim 2.2.0
+date = 2024-03-19
+time = 02:31:39.333
+command = topshim tunea convcomp
+
+FINE SHIMMING
+
+Parameters:
+
+probe = Z149001_0020
+solvent = MeOD
+shim nucleus = 2H
+nucleus optimised for = 1H
+o1p (from lock) = 3.30 ppm
+selective excitation width = 1.0 ppm
+
+Results:
+
+
+1D Shimming:
+Iteration 1: FWHM Before= 0.3 Hz, Target= 0.1 Hz, After= 0.4 Hz
+Iteration 2: FWHM Before= 0.4 Hz, Target= 0.2 Hz, After= 0.5 Hz
+Iteration 3: FWHM Before= 0.5 Hz, Target= 0.2 Hz, After= 0.4 Hz
+Iteration 4: FWHM Before= 0.4 Hz, Target= 0.2 Hz, After= 0.4 Hz
+Iteration 5: FWHM Before= 0.4 Hz, Target= 0.2 Hz, After= 0.2 Hz
+Iteration 6: FWHM Before= 0.2 Hz, Target= 0.2 Hz, After= 0.5 Hz
+Iteration 7: FWHM Before= 0.5 Hz, Target= 0.2 Hz, After= 0.3 Hz
+Iteration 8: FWHM Before= 0.3 Hz, Target= 0.2 Hz, After= 0.2 Hz
+Unusually slow convergence detected. Shimming was aborted.
+Using the best result as the final shim state.
+
+Lineshape quality factor (1D shimming, non-spinning) = 0.245
+
+
+Performing tune after shimming
+tune lock level increase = 1.2
+
+shim changes: 
+Z	-44
+Z2	+68
+Z3	-2
+Z4	-187
+Z5	+194
+Z6	+907
+Z7	-2901
+Z8	-211
+X	-15
+XZ	-2
+Y	+33
+YZ	-22
+
+duration = 5 min 37 sec
+completed successfully
+finished Tue Mar 19 02:37:14 2024
+
+
+========================================================================

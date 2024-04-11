@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2024-03-19T03:01:09.247+01:00" expNo="2" name="SA compound 22 fullchar" owner="" procNo="1" source="E:/NMRdata/Hermans/lab423/user2">
+      <PeakPickDetails>F1=229.755905ppm, F2=-9.755955ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="168.554352" intensity="1.534187e-01" type="0"/>
+    <Peak1D F1="150.141327" intensity="1.534909e-01" type="0"/>
+    <Peak1D F1="129.366196" intensity="6.530150e-01" type="0"/>
+    <Peak1D F1="128.991516" intensity="3.881352e-02" type="0"/>
+    <Peak1D F1="126.371780" intensity="2.234703e-01" type="0"/>
+    <Peak1D F1="120.855545" intensity="6.074135e-01" type="0"/>
+    <Peak1D F1="48.605213" intensity="1.216717e-01" type="0"/>
+    <Peak1D F1="48.221329" intensity="3.727612e-02" type="0"/>
+    <Peak1D F1="48.107605" intensity="2.086304e+00" type="0"/>
+    <Peak1D F1="48.051403" intensity="8.548881e-02" type="0"/>
+    <Peak1D F1="47.937294" intensity="6.379213e+00" type="0"/>
+    <Peak1D F1="47.880432" intensity="1.441902e-01" type="0"/>
+    <Peak1D F1="47.766968" intensity="1.277970e+01" type="0"/>
+    <Peak1D F1="47.710518" intensity="1.358757e-01" type="0"/>
+    <Peak1D F1="47.596626" intensity="1.500000e+01" type="0"/>
+    <Peak1D F1="47.538792" intensity="1.090210e-01" type="0"/>
+    <Peak1D F1="47.426296" intensity="1.284620e+01" type="0"/>
+    <Peak1D F1="47.255959" intensity="6.445631e+00" type="0"/>
+    <Peak1D F1="47.085644" intensity="2.138998e+00" type="0"/>
+    <Peak1D F1="14.809448" intensity="1.673660e-01" type="0"/>
+  </PeakList1D>
+</PeakList>

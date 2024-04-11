@@ -1,0 +1,15 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ E:/NMRdata/Hermans/lab423/user2/SA compound 22 fullchar/4/pdata/98/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-03-19 03:14:23.764 +0100>,<nmr/lab423@user2>,<CZC8327R47>,<mvrow>,<TopSpin 4.1.4>,
+      <rhpp from
+       1 4 "SA compound 22 fullchar" "E:/NMRdata/Hermans/lab423/user2"
+       data hash MD5: 8K
+       CD C4 CE 40 C7 20 F5 0B 57 07 72 B2 BF 1C AB 1D>)
+##END=
+
+$$ hash MD5
+$$ 5C 90 CF 8B E4 EF 29 5E 2A D1 2B D6 01 C7 0F 19

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2023-12-08T19:25:57.593+01:00" expNo="4" name="SA02-224-1  precipitate after washing" owner="" procNo="1" source="E:/NMRdata/Hermans/lab423/user2">
+      <PeakPickDetails>F1=229.755905ppm, F2=-9.755955ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="164.796890" intensity="3.920706e+00" type="0"/>
+    <Peak1D F1="129.128128" intensity="8.266293e+00" type="0"/>
+    <Peak1D F1="128.015289" intensity="8.452716e+00" type="0"/>
+    <Peak1D F1="126.604012" intensity="7.606636e+00" type="0"/>
+    <Peak1D F1="125.674484" intensity="4.210164e+00" type="0"/>
+    <Peak1D F1="121.171638" intensity="6.854177e+00" type="0"/>
+    <Peak1D F1="100.901222" intensity="3.751765e+00" type="0"/>
+    <Peak1D F1="100.653435" intensity="3.990659e+00" type="0"/>
+    <Peak1D F1="81.519249" intensity="2.885975e+00" type="0"/>
+    <Peak1D F1="72.682991" intensity="3.107983e+00" type="0"/>
+    <Peak1D F1="70.582428" intensity="3.339984e+00" type="0"/>
+    <Peak1D F1="68.648674" intensity="-3.308871e+00" type="0"/>
+    <Peak1D F1="67.385300" intensity="3.730861e+00" type="0"/>
+    <Peak1D F1="54.396164" intensity="5.035483e+00" type="0"/>
+    <Peak1D F1="48.217918" intensity="4.676661e+00" type="0"/>
+    <Peak1D F1="48.047249" intensity="9.912489e+00" type="0"/>
+    <Peak1D F1="47.876335" intensity="1.500000e+01" type="0"/>
+    <Peak1D F1="47.705322" intensity="9.647765e+00" type="0"/>
+    <Peak1D F1="47.534954" intensity="4.260909e+00" type="0"/>
+  </PeakList1D>
+</PeakList>

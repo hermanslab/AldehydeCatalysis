@@ -1,0 +1,51 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ E:/NMRdata/Hermans/lab423/user2/SA02-224-1  precipitate after washing/6/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-12-08 18:43:35.312 +0000>,<CZC8327R47\nmrsu>,<CZC8327R47>,<go4>,<TopSpin 4.1.4>,
+      <acquisition in progress>)
+$$ E:/NMRdata/Hermans/lab423/user2/SA02-224-1  precipitate after washing/6/audita.txt
+(   2,<2023-12-08 19:16:25.015 +0000>,<CZC8327R47\nmrsu>,<CZC8327R47>,<go4>,<TopSpin 4.1.4>,
+      <created by zg on 'Avance NEO 500' (CZC8327R47) by user 'CZC8327R47\nmrsu'
+       on data set with UUID 'b1632dc0-95f9-11ee-8433-00139529db41'
+       started at 2023-12-08 18:43:35.327 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2023-12-08 19:16:25.014 +0000
+       configuration hash MD5:
+       FD 07 3D 66 3D 85 09 77 A5 4A F8 99 CD 98 13 DC
+       double data hash MD5: 4K * 256
+       A9 FB D1 71 52 9B 11 91 45 8F E0 14 3D 91 21 A7>)
+(   3,<2023-12-08 20:16:23.404 +0100>,<nmrsu>,<CZC8327R47>,<sertoint>,<TopSpin 4.1.4>,
+      <sertoint
+       data hash MD5: 4K * 256
+       5C C4 F7 66 A0 58 F3 6E F4 9A 43 81 1E 48 AC 33>)
+(   4,<2023-12-08 20:16:23.428 +0100>,<nmrsu>,<CZC8327R47>,<xwish3>,<TopSpin 4.1.4>,
+      <ICON-NMR User ID: lab423@user2
+       data hash MD5: 4K * 256
+       5C C4 F7 66 A0 58 F3 6E F4 9A 43 81 1E 48 AC 33>)
+(   5,<2023-12-08 20:16:24.945 +0100>,<nmrsu/lab423@user2>,<CZC8327R47>,<proc2d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       xfb same F2: SI = 4K WDW = 3 SSB = 4 FT_mod = 6 PKNL = 1 F1: SI = 1K ME_mod = 2 NCOEF = 32 WDW = 4 SSB = 2 FT_mod = 6 FCOR = 0.5 PHC0 = 0 PHC1 = 0
+       data hash MD5: 4K * 1K
+       5A FA 09 1E 06 18 77 1B AC D4 59 82 67 DC F2 FE>)
+(   6,<2023-12-08 20:16:25.391 +0100>,<nmrsu/lab423@user2>,<CZC8327R47>,<proc2d>,<TopSpin 4.1.4>,
+      <mc2 F2: PH_mod = 2
+       data hash MD5: 4K * 1K
+       5A EE F0 61 DA 3B 5F 91 11 7B C8 06 CE C2 C4 32>)
+(   7,<2023-12-08 20:16:25.702 +0100>,<nmrsu/lab423@user2>,<CZC8327R47>,<proc2d>,<TopSpin 4.1.4>,
+      <abs2 F2: ABSG = 5 ABSF1 = 12.57568 ABSF2 = -0.5787948
+       data hash MD5: 4K * 1K
+       64 18 20 A4 B1 B9 CB 64 FF E2 E6 9D CE 53 9A BE>)
+(   8,<2023-12-08 20:16:26.366 +0100>,<nmrsu/lab423@user2>,<CZC8327R47>,<proc2d>,<TopSpin 4.1.4>,
+      <abs1 F1: ABSG = 5 ABSF1 = 230.018 ABSF2 = -10.018
+       data hash MD5: 4K * 1K
+       EC 5E 45 14 87 A4 AA 1F 1A 36 EE AE FC 56 31 1E>)
+(   9,<2023-12-08 20:16:28.956 +0100>,<nmrsu/lab423@user2>,<CZC8327R47>,<xwish3>,<TopSpin 4.1.4>,
+      <ICON-NMR User ID: lab423@user2
+       data hash MD5: 4K * 1K
+       EC 5E 45 14 87 A4 AA 1F 1A 36 EE AE FC 56 31 1E>)
+##END=
+
+$$ hash MD5
+$$ DC CE F9 A3 FD 7D 0B 7B 26 44 21 A2 E9 4D 2B 0E

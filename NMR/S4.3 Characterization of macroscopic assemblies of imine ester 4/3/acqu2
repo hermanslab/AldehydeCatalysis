@@ -1,0 +1,24 @@
+##TITLE= Parameter file, TopSpin 4.1.4
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2023-12-08 11:09:35.545 +0100  nmrsu@CZC8327R47
+$$ C:/Bruker/TopSpin4.1.4/prog/curdir/changer/inmrchanger/Nov03-2023-1701-labII20@user6/1/1.79/data/nmr/SA02-224-1  precipitate after washing/3/acqu2
+$$ process C:\Bruker\TopSpin4.1.4\prog\mod\dataserver.exe
+##$ACQT0= 0
+##$BF1= 500.129999999
+##$FnILOOP= 0
+##$FnMODE= 1
+##$NUC1= <1H>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 0
+##$O1= 2999.9999999859
+##$ProjAngle= 0
+##$SFO1= 500.132999999
+##$SW= 13.1544
+##$SW_h= 6578.95
+##$TD= 128
+##END=

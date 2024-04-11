@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.6.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= TH_lab
+$$ 2023-09-08 11:28:56.494 +0200  TH_lab@DESKTOP-SS7M8T8
+$$ D:\NMRdatas\TH_lab\lab423\user2/SA02-193-3  SachCHO and 22 pH 7.90/15/pdata/1/outd
+$$ process C:\Bruker\TopSpin3.6.2\prog\au\bin\multizg.exe
+##$CURPLOT= <PDF reDirect v2>
+##$CURPRIN= <$PDF reDirect v2>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

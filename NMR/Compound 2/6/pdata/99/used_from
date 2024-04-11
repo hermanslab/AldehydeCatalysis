@@ -1,0 +1,17 @@
+##TITLE= Parameter file, TopSpin 4.1.4
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2024-03-19 04:04:37.637 +0100  nmr@CZC8327R47
+$$ E:/NMRdata/Hermans/lab423/user2/SA compound 22 fullchar/6/pdata/99/used_from
+$$ process C:\Bruker\TopSpin4.1.4\prog\mod\mvrow.exe
+##$CUREXP= <column>
+##$DATPATH= <E:/NMRdata/Hermans/lab423/user2>
+##$DETAILS= <positive projection of all 4096 columns>
+##$EXPNO= 6
+##$NAME= <SA compound 22 fullchar>
+##$PROCNO= 1
+##$PROCNO2= 1
+##END=
