@@ -1,0 +1,5 @@
+   Current data set:
+   NAME =	SA02-229-1  SachCHO and 22 pH 7.00	EXPNO =	1	PROCNO = 1
+   DU   =	D:/NMRdatas/TH_lab/lab423/user2
+
+   Number   Integrated Region     Integral
